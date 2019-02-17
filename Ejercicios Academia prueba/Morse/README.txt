@@ -1,0 +1,3 @@
+-Jesus Francisco Estrada Cortez
+-chucho_pancho14@hotmail.com
+-Se le pide que introduzca un codigo morse, al presionar enter se traducira. Luego se le pedira introducir un texto normal, el presionar enter se traducira tambien.
